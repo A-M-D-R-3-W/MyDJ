@@ -30,8 +30,7 @@
     "active": true,
     "targets": ["nsis"],
     "resources": [
-      "resources/models/*.onnx",
-      "resources/*.dll"
+      "resources/models/*.onnx"
     ],
     "shortDescription": "A focused, timeline-based DJ mix editor",
     "longDescription": "MixCanvas is an open source DJ mix editor built around a light, precise musical timeline."
